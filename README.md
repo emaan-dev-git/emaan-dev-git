@@ -114,6 +114,10 @@ I don't build tutorial projects — I build things that go **live in production*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaan-dev-git&layout=compact&theme=tokyonight&hide_border=true)
 
+> 📌 Note: Stats reflect public repos only. 
+> Primary stack (TypeScript · Next.js · PostgreSQL) 
+> used in private client projects.
+
 </div>
 
 ---
