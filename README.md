@@ -5,10 +5,10 @@
 
 *Building production-ready web applications from Pakistan 🇵🇰*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaan-tariq-7b7568404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaantariq-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://emriz-fashion.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eman.tariq1118@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/emaan-tariq-7b7568404)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/emaantariq-dev/)
 
 </div>
 
@@ -127,7 +127,7 @@ I don't build tutorial projects — I build things that go **live in production*
 I'm open to **full-time remote roles**, **freelance projects**, and **collaborations**.
 
 - 📧 Email: [eman.tariq1118@gmail.com](mailto:eman.tariq1118@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/emaan-tariq-7b7568404](https://www.linkedin.com/in/emaan-tariq-7b7568404)
+- 💼 LinkedIn: [linkedin.com/in/emaantariq-dev/](https://www.linkedin.com/in/emaantariq-dev/)
 - 🌍 Location: Punjab, Pakistan (Available for remote work globally)
 
 ---
